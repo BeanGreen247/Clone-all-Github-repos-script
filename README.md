@@ -1,5 +1,5 @@
 # Clone all Github repos script
-## Setup
+**NOTE: If you want to clone somebody else's repos they gave to give you their RSA key.**
 Install these packages
 ```
 sudo apt install git curl xclip -y
